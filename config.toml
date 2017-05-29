@@ -1,4 +1,4 @@
-baseurl = "http://www.schoolofdata.science"
+baseurl = "/"
 languageCode = "en-us"
 title = "School of Data"
 canonifyUrls = "true"

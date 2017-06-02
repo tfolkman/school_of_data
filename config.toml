@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "School of Data"
 canonifyUrls = "true"
+googleAnalytics = "UA-84023403-2"
 
 [params]
     description = "For Those About to Science...We Salute You"

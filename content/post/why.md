@@ -3,7 +3,7 @@ date = "2017-05-30"
 draft = false
 title = "What's in it for me?"
 img = "dinosaur.jpeg"
-weight = 5
+weight = 6
 +++
 
 Let's be honest, a 1 day workshop will not transform you into a data scientist, but it is a step towards understanding how to use data to drive value. We are big believers in continuous learning and see our workshops as stepping stones to you feeling empowered to make data driven decisions. 

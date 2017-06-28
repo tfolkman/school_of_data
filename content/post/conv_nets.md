@@ -6,7 +6,7 @@ img = "inception.png"
 weight = 2
 +++
 
-You've heard the news - deep learning is taking over. Google uses it to organize your photos, the post office uses it to read zip codes, and self-driving cars use it to help navigate. Now, understand exactly how deep learning works and how it can be applied to image recognition. This workshop is for people who want to open the black-box of deep learning and learn how to build their own state-of-the-art image recognition deep nets. This course is currently in beta testing. Please, [contact us](mailto:schoolofdatasci@gmail.com) for more details and to get on the wait-list. 
+You've heard the news - deep learning is taking over. Google uses it to organize your photos, the post office uses it to read zip codes, and self-driving cars use it to help navigate. Now, understand exactly how deep learning works and how it can be applied to image recognition. This workshop is for people who want to open the black-box of deep learning and learn how to build their own state-of-the-art image recognition deep nets. Please, [contact us](mailto:schoolofdatasci@gmail.com) for more details and to get on the wait-list. 
 
 Highlights:
 

@@ -6,7 +6,7 @@ img = "bin_class.png"
 weight = 4
 +++
 
-Often, the first step in any data science project is data exploration. The process of diving deep into the data to understand its main attributes as well as its outliers and biases. This course is geared towards people looking to learn best practices for analyzing data and how to uncover potential value. You will also learn how to effectively report findings using visualizations and gain hands-on experience. This course is currently in beta testing. Please, [contact us](mailto:schoolofdatasci@gmail.com) for more details and to get on the wait-list.
+Often, the first step in any data science project is data exploration. The process of diving deep into the data to understand its main attributes as well as its outliers and biases. This course is geared towards people looking to learn best practices for analyzing data and how to uncover potential value. You will also learn how to effectively report findings using visualizations and gain hands-on experience. Please, [contact us](mailto:schoolofdatasci@gmail.com) for more details and to get on the wait-list.
 
 Highlights:
 
